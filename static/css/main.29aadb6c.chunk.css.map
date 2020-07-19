@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.scss"],"names":[],"mappings":"AAAA,KACE,QAAS,CACT,+BAAiC,CACjC,kCAAmC,CACnC,iCAAkC,CAClC,iBAAkB","file":"main.29aadb6c.chunk.css","sourcesContent":["body {\n  margin: 0;\n  font-family: 'Roboto', sans-serif;\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;\n  text-align: center;\n}\n"]}

@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thirukural/static/css/main.29aadb6c.chunk.css",
+    "main.js": "/thirukural/static/js/main.2a721971.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.2a721971.chunk.js.map",
+    "runtime-main.js": "/thirukural/static/js/runtime-main.9b95ef5c.js",
+    "runtime-main.js.map": "/thirukural/static/js/runtime-main.9b95ef5c.js.map",
+    "static/js/2.1fb9fc17.chunk.js": "/thirukural/static/js/2.1fb9fc17.chunk.js",
+    "static/js/2.1fb9fc17.chunk.js.map": "/thirukural/static/js/2.1fb9fc17.chunk.js.map",
+    "index.html": "/thirukural/index.html",
+    "precache-manifest.f060df3ad1f200974ceb4eca001338fd.js": "/thirukural/precache-manifest.f060df3ad1f200974ceb4eca001338fd.js",
+    "service-worker.js": "/thirukural/service-worker.js",
+    "static/css/main.29aadb6c.chunk.css.map": "/thirukural/static/css/main.29aadb6c.chunk.css.map",
+    "static/js/2.1fb9fc17.chunk.js.LICENSE.txt": "/thirukural/static/js/2.1fb9fc17.chunk.js.LICENSE.txt",
+    "static/media/thirukural.png": "/thirukural/static/media/thirukural.91151f9d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9b95ef5c.js",
+    "static/js/2.1fb9fc17.chunk.js",
+    "static/css/main.29aadb6c.chunk.css",
+    "static/js/main.2a721971.chunk.js"
+  ]
+}
