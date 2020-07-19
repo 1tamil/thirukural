@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "59eacc77cfffc1f9c9f0d506a3b49497",
+    "revision": "29aa6d92efa49541b443f69d85a69ae2",
     "url": "/thirukural/index.html"
   },
   {
-    "revision": "e2789dfc40a56deb41a9",
+    "revision": "b12cbb7ee5c7941a5c3a",
     "url": "/thirukural/static/css/main.29aadb6c.chunk.css"
   },
   {
-    "revision": "873010a2c23e911e263e",
-    "url": "/thirukural/static/js/2.1fb9fc17.chunk.js"
+    "revision": "a1cf8c84fe2d653afbc5",
+    "url": "/thirukural/static/js/2.3580443f.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/thirukural/static/js/2.1fb9fc17.chunk.js.LICENSE.txt"
+    "url": "/thirukural/static/js/2.3580443f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e2789dfc40a56deb41a9",
-    "url": "/thirukural/static/js/main.2a721971.chunk.js"
+    "revision": "b12cbb7ee5c7941a5c3a",
+    "url": "/thirukural/static/js/main.9ed1d1e5.chunk.js"
   },
   {
     "revision": "84badf721e6565f407a8",
