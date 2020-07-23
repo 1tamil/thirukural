@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/thirukural/static/css/main.29aadb6c.chunk.css",
-    "main.js": "/thirukural/static/js/main.9ed1d1e5.chunk.js",
-    "main.js.map": "/thirukural/static/js/main.9ed1d1e5.chunk.js.map",
+    "main.js": "/thirukural/static/js/main.c2343f3e.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.c2343f3e.chunk.js.map",
     "runtime-main.js": "/thirukural/static/js/runtime-main.9b95ef5c.js",
     "runtime-main.js.map": "/thirukural/static/js/runtime-main.9b95ef5c.js.map",
-    "static/js/2.3580443f.chunk.js": "/thirukural/static/js/2.3580443f.chunk.js",
-    "static/js/2.3580443f.chunk.js.map": "/thirukural/static/js/2.3580443f.chunk.js.map",
+    "static/js/2.2f2189b1.chunk.js": "/thirukural/static/js/2.2f2189b1.chunk.js",
+    "static/js/2.2f2189b1.chunk.js.map": "/thirukural/static/js/2.2f2189b1.chunk.js.map",
     "index.html": "/thirukural/index.html",
-    "precache-manifest.9c45e83c1b2227371af873d89fdb0a7a.js": "/thirukural/precache-manifest.9c45e83c1b2227371af873d89fdb0a7a.js",
+    "precache-manifest.e9e371b48f499654d50867e8dd30ca50.js": "/thirukural/precache-manifest.e9e371b48f499654d50867e8dd30ca50.js",
     "service-worker.js": "/thirukural/service-worker.js",
     "static/css/main.29aadb6c.chunk.css.map": "/thirukural/static/css/main.29aadb6c.chunk.css.map",
-    "static/js/2.3580443f.chunk.js.LICENSE.txt": "/thirukural/static/js/2.3580443f.chunk.js.LICENSE.txt",
+    "static/js/2.2f2189b1.chunk.js.LICENSE.txt": "/thirukural/static/js/2.2f2189b1.chunk.js.LICENSE.txt",
     "static/media/thirukural.png": "/thirukural/static/media/thirukural.91151f9d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9b95ef5c.js",
-    "static/js/2.3580443f.chunk.js",
+    "static/js/2.2f2189b1.chunk.js",
     "static/css/main.29aadb6c.chunk.css",
-    "static/js/main.9ed1d1e5.chunk.js"
+    "static/js/main.c2343f3e.chunk.js"
   ]
 }
