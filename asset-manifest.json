@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/thirukural/static/css/main.29aadb6c.chunk.css",
-    "main.js": "/thirukural/static/js/main.999a7a85.chunk.js",
-    "main.js.map": "/thirukural/static/js/main.999a7a85.chunk.js.map",
+    "main.js": "/thirukural/static/js/main.a980289b.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.a980289b.chunk.js.map",
     "runtime-main.js": "/thirukural/static/js/runtime-main.9b95ef5c.js",
     "runtime-main.js.map": "/thirukural/static/js/runtime-main.9b95ef5c.js.map",
     "static/js/2.d5cfc912.chunk.js": "/thirukural/static/js/2.d5cfc912.chunk.js",
     "static/js/2.d5cfc912.chunk.js.map": "/thirukural/static/js/2.d5cfc912.chunk.js.map",
     "index.html": "/thirukural/index.html",
-    "precache-manifest.b85e3f9dd022ac04a627bfb015d443b3.js": "/thirukural/precache-manifest.b85e3f9dd022ac04a627bfb015d443b3.js",
+    "precache-manifest.72d465673a4445a5ba226ac202708e34.js": "/thirukural/precache-manifest.72d465673a4445a5ba226ac202708e34.js",
     "service-worker.js": "/thirukural/service-worker.js",
     "static/css/main.29aadb6c.chunk.css.map": "/thirukural/static/css/main.29aadb6c.chunk.css.map",
     "static/js/2.d5cfc912.chunk.js.LICENSE.txt": "/thirukural/static/js/2.d5cfc912.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.9b95ef5c.js",
     "static/js/2.d5cfc912.chunk.js",
     "static/css/main.29aadb6c.chunk.css",
-    "static/js/main.999a7a85.chunk.js"
+    "static/js/main.a980289b.chunk.js"
   ]
 }
