@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/thirukural/static/css/main.da4bd6db.chunk.css",
-    "main.js": "/thirukural/static/js/main.04948233.chunk.js",
-    "main.js.map": "/thirukural/static/js/main.04948233.chunk.js.map",
+    "main.js": "/thirukural/static/js/main.678d699f.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.678d699f.chunk.js.map",
     "runtime-main.js": "/thirukural/static/js/runtime-main.d7740a68.js",
     "runtime-main.js.map": "/thirukural/static/js/runtime-main.d7740a68.js.map",
-    "static/js/2.821557d2.chunk.js": "/thirukural/static/js/2.821557d2.chunk.js",
-    "static/js/2.821557d2.chunk.js.map": "/thirukural/static/js/2.821557d2.chunk.js.map",
+    "static/js/2.8d12f315.chunk.js": "/thirukural/static/js/2.8d12f315.chunk.js",
+    "static/js/2.8d12f315.chunk.js.map": "/thirukural/static/js/2.8d12f315.chunk.js.map",
     "index.html": "/thirukural/index.html",
     "static/css/main.da4bd6db.chunk.css.map": "/thirukural/static/css/main.da4bd6db.chunk.css.map",
-    "static/js/2.821557d2.chunk.js.LICENSE.txt": "/thirukural/static/js/2.821557d2.chunk.js.LICENSE.txt"
+    "static/js/2.8d12f315.chunk.js.LICENSE.txt": "/thirukural/static/js/2.8d12f315.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7740a68.js",
-    "static/js/2.821557d2.chunk.js",
+    "static/js/2.8d12f315.chunk.js",
     "static/css/main.da4bd6db.chunk.css",
-    "static/js/main.04948233.chunk.js"
+    "static/js/main.678d699f.chunk.js"
   ]
 }
