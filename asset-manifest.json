@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/thirukural/static/css/main.da4bd6db.chunk.css",
-    "main.js": "/thirukural/static/js/main.99c6ed2f.chunk.js",
-    "main.js.map": "/thirukural/static/js/main.99c6ed2f.chunk.js.map",
+    "main.js": "/thirukural/static/js/main.b01df889.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.b01df889.chunk.js.map",
     "runtime-main.js": "/thirukural/static/js/runtime-main.d7740a68.js",
     "runtime-main.js.map": "/thirukural/static/js/runtime-main.d7740a68.js.map",
     "static/css/2.4920a1fe.chunk.css": "/thirukural/static/css/2.4920a1fe.chunk.css",
-    "static/js/2.aecec59a.chunk.js": "/thirukural/static/js/2.aecec59a.chunk.js",
-    "static/js/2.aecec59a.chunk.js.map": "/thirukural/static/js/2.aecec59a.chunk.js.map",
+    "static/js/2.52413a9a.chunk.js": "/thirukural/static/js/2.52413a9a.chunk.js",
+    "static/js/2.52413a9a.chunk.js.map": "/thirukural/static/js/2.52413a9a.chunk.js.map",
     "index.html": "/thirukural/index.html",
     "static/css/2.4920a1fe.chunk.css.map": "/thirukural/static/css/2.4920a1fe.chunk.css.map",
     "static/css/main.da4bd6db.chunk.css.map": "/thirukural/static/css/main.da4bd6db.chunk.css.map",
-    "static/js/2.aecec59a.chunk.js.LICENSE.txt": "/thirukural/static/js/2.aecec59a.chunk.js.LICENSE.txt"
+    "static/js/2.52413a9a.chunk.js.LICENSE.txt": "/thirukural/static/js/2.52413a9a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d7740a68.js",
     "static/css/2.4920a1fe.chunk.css",
-    "static/js/2.aecec59a.chunk.js",
+    "static/js/2.52413a9a.chunk.js",
     "static/css/main.da4bd6db.chunk.css",
-    "static/js/main.99c6ed2f.chunk.js"
+    "static/js/main.b01df889.chunk.js"
   ]
 }
