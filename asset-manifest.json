@@ -1,23 +1,28 @@
 {
   "files": {
-    "main.css": "/thirukural/static/css/main.0193252d.chunk.css",
-    "main.js": "/thirukural/static/js/main.7ca11bf1.chunk.js",
-    "main.js.map": "/thirukural/static/js/main.7ca11bf1.chunk.js.map",
-    "runtime-main.js": "/thirukural/static/js/runtime-main.d7740a68.js",
-    "runtime-main.js.map": "/thirukural/static/js/runtime-main.d7740a68.js.map",
+    "main.css": "/thirukural/static/css/main.1f56c55d.chunk.css",
+    "main.js": "/thirukural/static/js/main.5920fe1c.chunk.js",
+    "main.js.map": "/thirukural/static/js/main.5920fe1c.chunk.js.map",
+    "runtime-main.js": "/thirukural/static/js/runtime-main.05ec7e19.js",
+    "runtime-main.js.map": "/thirukural/static/js/runtime-main.05ec7e19.js.map",
     "static/css/2.4920a1fe.chunk.css": "/thirukural/static/css/2.4920a1fe.chunk.css",
-    "static/js/2.86837324.chunk.js": "/thirukural/static/js/2.86837324.chunk.js",
-    "static/js/2.86837324.chunk.js.map": "/thirukural/static/js/2.86837324.chunk.js.map",
+    "static/js/2.37571821.chunk.js": "/thirukural/static/js/2.37571821.chunk.js",
+    "static/js/2.37571821.chunk.js.map": "/thirukural/static/js/2.37571821.chunk.js.map",
+    "static/js/3.1dd1c918.chunk.js": "/thirukural/static/js/3.1dd1c918.chunk.js",
+    "static/js/3.1dd1c918.chunk.js.map": "/thirukural/static/js/3.1dd1c918.chunk.js.map",
     "index.html": "/thirukural/index.html",
+    "service-worker.js": "/thirukural/service-worker.js",
+    "service-worker.js.map": "/thirukural/service-worker.js.map",
     "static/css/2.4920a1fe.chunk.css.map": "/thirukural/static/css/2.4920a1fe.chunk.css.map",
-    "static/css/main.0193252d.chunk.css.map": "/thirukural/static/css/main.0193252d.chunk.css.map",
-    "static/js/2.86837324.chunk.js.LICENSE.txt": "/thirukural/static/js/2.86837324.chunk.js.LICENSE.txt"
+    "static/css/main.1f56c55d.chunk.css.map": "/thirukural/static/css/main.1f56c55d.chunk.css.map",
+    "static/js/2.37571821.chunk.js.LICENSE.txt": "/thirukural/static/js/2.37571821.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/thirukural/static/media/TSCu_SaiIndira.0e376f31.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.d7740a68.js",
+    "static/js/runtime-main.05ec7e19.js",
     "static/css/2.4920a1fe.chunk.css",
-    "static/js/2.86837324.chunk.js",
-    "static/css/main.0193252d.chunk.css",
-    "static/js/main.7ca11bf1.chunk.js"
+    "static/js/2.37571821.chunk.js",
+    "static/css/main.1f56c55d.chunk.css",
+    "static/js/main.5920fe1c.chunk.js"
   ]
 }
