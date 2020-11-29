@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/components/kural/swiper-custom.scss"],"names":[],"mappings":"AAAA,kBACE,8BAA+B","file":"6.a84686ac.chunk.css","sourcesContent":[".swiper-container {\n  background: var(--app-bg-color);\n}\n"]}
