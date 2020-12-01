@@ -1,2 +1,0 @@
-(this.webpackJsonpthirukural=this.webpackJsonpthirukural||[]).push([[9],{581:function(t,r,e){"use strict";e.r(r),e.d(r,"ListCategoryViewer",(function(){return a}));var u=e(3),i=(e(0),e(290)),n=e(129),o=Object(i.a)((function(t){return{root:{}}})),a=function(t){var r=t.route,e=o();return Object(u.jsx)("div",{className:e.root,children:Object(n.a)(null===r||void 0===r?void 0:r.routes)})};r.default=a}}]);
-//# sourceMappingURL=9.c03f54ae.chunk.js.map
